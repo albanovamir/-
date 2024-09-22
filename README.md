@@ -1,6 +1,7 @@
 # Industrial-Programming, Албанов Амир ЭФМО-02-24
 ## Use-case диаграмма интернет магазина
-![USE-CASE final2](https://github.com/user-attachments/assets/1ed226c8-b696-4a9f-8967-a26f8f2e97d9)
+![USE-CASE final 3](https://github.com/user-attachments/assets/76db8557-3248-40bd-b929-77e56c669ff6)
+
 
 
 
