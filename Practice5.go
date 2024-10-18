@@ -490,7 +490,7 @@ func task_3_4() {
 func task_3_5() {
 	var a, b, greater, less int
 	fmt.Print("Введите два числа для нахождения НОД: ")
-	fmt.Scan(&a, &b)
+	fmt.Scanln(&a, &b)
 
 	if a > b {
 		greater = a
